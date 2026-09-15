@@ -7,23 +7,23 @@
 - 🗣 **Speaking:** не оценён
 - 👂 **Listening:** не оценён
 - 📖 **Reading:** не оценён
-- ✍️ **Writing:** не оценён
-- 🧠 **Vocabulary:** не оценён
-- ⚙️ **Grammar:** не оценён
+- ✍️ **Writing:** диагностика продолжается
+- 🧠 **Vocabulary:** диагностика продолжается
+- ⚙️ **Grammar:** диагностика продолжается
 
 ## Grammar branches
 
-- Cases / Przypadki: не оценён
+- Cases / Przypadki: первые данные — нужна дополнительная проверка
 - Verb aspect / Aspekt: не оценён
 - Past, present, future tense: не оценён
-- Gender and agreement: не оценён
+- Gender and agreement: первые данные — нужна дополнительная проверка
 - Numerals: не оценён
 - Prepositions and government: не оценён
-- Natural word order: не оценён
+- Natural word order: первые данные — базовые вопросы строит понятно
 
 ## Life branches
 
-- 🛒 Shopping and food: не оценён
+- 🛒 Shopping and food: первые данные — умеет самостоятельно формулировать простые вопросы
 - 🏥 Doctor and health: не оценён
 - 🏠 Flat and household: не оценён
 - 📦 Services and Paczkomat: не оценён
@@ -37,5 +37,5 @@
 
 | Date | Skill | Evidence | Change |
 |---|---|---|---|
-| — | — | Диагностика ещё не проводилась | — |
-
+| 2026-09-15 | Writing / Grammar | `Czy pan/pani ma tej wodę?` — понятная структура вопроса, ошибка согласования/падежной формы перед `wodę` | Первое наблюдение, без процента |
+| 2026-09-15 | Writing / Vocabulary | `Przepraszam, czy pan/pani ma cukier?` — правильная самостоятельная бытовая фраза | Первое положительное наблюдение, без процента |
