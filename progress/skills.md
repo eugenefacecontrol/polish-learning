@@ -17,13 +17,13 @@
 - Verb aspect / Aspekt: не оценён
 - Past, present, future tense: не оценён
 - Gender and agreement: первые данные — нужна дополнительная проверка
-- Numerals: не оценён
+- Numerals: первые данные — `dwie` использовано правильно, нужна дополнительная проверка
 - Prepositions and government: не оценён
 - Natural word order: первые данные — базовые вопросы строит понятно
 
 ## Life branches
 
-- 🛒 Shopping and food: первые данные — умеет самостоятельно формулировать простые вопросы
+- 🛒 Shopping and food: первые данные — умеет самостоятельно формулировать простые вопросы и исправлять их после обратной связи
 - 🏥 Doctor and health: не оценён
 - 🏠 Flat and household: не оценён
 - 📦 Services and Paczkomat: не оценён
@@ -39,3 +39,4 @@
 |---|---|---|---|
 | 2026-09-15 | Writing / Grammar | `Czy pan/pani ma tej wodę?` — понятная структура вопроса, ошибка согласования/падежной формы перед `wodę` | Первое наблюдение, без процента |
 | 2026-09-15 | Writing / Vocabulary | `Przepraszam, czy pan/pani ma cukier?` — правильная самостоятельная бытовая фраза | Первое положительное наблюдение, без процента |
+| 2026-09-15 | Writing / Grammar | `Przepraszam, czy macie jeszcze take dwie butelki wodę?` → самостоятельно исправлено на `Przepraszam, czy macie jeszcze dwie takie butelki wody?` после объяснения | +5 XP за самостоятельное исправление; дополнительное evidence без процента |
