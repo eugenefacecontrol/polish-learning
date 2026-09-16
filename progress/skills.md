@@ -13,17 +13,17 @@
 
 ## Grammar branches
 
-- Cases / Przypadki: первые данные — нужна дополнительная проверка
+- Cases / Przypadki: дополнительные данные — винительный падеж и согласование требуют практики
 - Verb aspect / Aspekt: не оценён
 - Past, present, future tense: не оценён
-- Gender and agreement: первые данные — нужна дополнительная проверка
+- Gender and agreement: женский и средний род пока нестабильны; мужской `taki chleb` использован правильно без подсказки
 - Numerals: первые данные — `dwie` использовано правильно, нужна дополнительная проверка
-- Prepositions and government: не оценён
-- Natural word order: первые данные — базовые вопросы строит понятно
+- Prepositions and government: первые данные — конструкция `poprosić o` используется самостоятельно, формы после неё требуют практики
+- Natural word order: базовые вопросы строит понятно; `Gdzie ja mogę…` грамматически правильно, нейтральнее без `ja`
 
 ## Life branches
 
-- 🛒 Shopping and food: первые данные — умеет самостоятельно формулировать простые вопросы и исправлять их после обратной связи
+- 🛒 Shopping and food: умеет самостоятельно формулировать простые вопросы; согласование форм ещё нестабильно
 - 🏥 Doctor and health: не оценён
 - 🏠 Flat and household: не оценён
 - 📦 Services and Paczkomat: не оценён
@@ -40,3 +40,6 @@
 | 2026-09-15 | Writing / Grammar | `Czy pan/pani ma tej wodę?` — понятная структура вопроса, ошибка согласования/падежной формы перед `wodę` | Первое наблюдение, без процента |
 | 2026-09-15 | Writing / Vocabulary | `Przepraszam, czy pan/pani ma cukier?` — правильная самостоятельная бытовая фраза | Первое положительное наблюдение, без процента |
 | 2026-09-15 | Writing / Grammar | `Przepraszam, czy macie jeszcze take dwie butelki wodę?` → самостоятельно исправлено на `Przepraszam, czy macie jeszcze dwie takie butelki wody?` после объяснения | +5 XP за самостоятельное исправление; дополнительное evidence без процента |
+| 2026-09-16 | Writing / Grammar | `taka cola` → `take colę`; после объяснения усвоена модель `taką colę` | Повторное наблюдение: женский род/винительный пока нестабилен |
+| 2026-09-16 | Writing / Grammar | `Czy mogę poprosić o taką ciastę?` → `...taką ciasto?`; правильная форма `takie ciasto` потребовала объяснения | Средний род требует дальнейшей практики |
+| 2026-09-16 | Writing / Grammar | `Gdzie ja mogę kupić taki chleb?` | Правильный мужской род без подсказки, +8 XP |
