@@ -4,7 +4,7 @@
 
 | Pattern | Incorrect | Natural Polish | Short rule | Count | Last seen | Next check | Status |
 |---|---|---|---|---:|---|---|---|
-| — | — | — | Диагностика ещё не проводилась | 0 | — | — | — |
+| Согласование `taki/takie/taką` | `tej wodę`, `take dwie butelki`, `taka cola`, `take colę`, `taką ciasto` | `taką wodę`, `dwie takie butelki`, `taką colę`, `takie ciasto` | Форма `taki` меняется вместе с родом/числом/падежом существительного | 3 sessions | 2026-09-16 | 2026-09-18 | active |
 
 ## Status guide
 
