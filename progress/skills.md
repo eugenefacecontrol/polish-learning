@@ -6,7 +6,7 @@
 
 - 🗣 **Speaking:** не оценён
 - 👂 **Listening:** не оценён
-- 📖 **Reading:** не оценён
+- 📖 **Reading:** диагностика продолжается
 - ✍️ **Writing:** диагностика продолжается
 - 🧠 **Vocabulary:** диагностика продолжается
 - ⚙️ **Grammar:** диагностика продолжается
@@ -14,12 +14,13 @@
 ## Grammar branches
 
 - Cases / Przypadki: винительный падеж и согласование требуют практики; появились первые данные по dopełniacz после отрицания и после `do`
-- Verb aspect / Aspekt: не оценён
-- Past, present, future tense: не оценён
+- Verb aspect / Aspekt: первые данные — разобрано `myć → umyć`, требует проверки
+- Past, present, future tense: начата практика будущего совершенного `umyję się`
 - Gender and agreement: женский и средний род пока нестабильны; мужской `taki chleb` использован правильно без подсказки
 - Numerals: `dwie` ранее использовано правильно; `dwa dni` исправлено самостоятельно после указания на ошибку
-- Prepositions and government: `poprosić o` используется самостоятельно; начата практика `do + dopełniacz`
+- Prepositions and government: `poprosić o` используется самостоятельно; `do Dworca Głównego` самостоятельно исправлено после коррекции
 - Natural word order: базовые вопросы строит понятно; иногда добавляет местоимение там, где естественнее его опустить (`Kiedy ona będzie?`)
+- Reflexive constructions: начата практика `ubierać się`, `myć się`; формы требуют закрепления
 
 ## Life branches
 
@@ -27,7 +28,7 @@
 - 🏥 Doctor and health: не оценён
 - 🏠 Flat and household: первые данные — способен составить понятное сообщение о проблеме с водой, падежные формы требуют коррекции
 - 📦 Services and Paczkomat: не оценён
-- 🚋 Transport and directions: первые данные — освоил базовое различие `dojść` / `dojechać`; формы названий мест после `do` требуют практики
+- 🚋 Transport and directions: правильно выбирает `dojechać` для транспорта; `do Dworca Głównego` исправлено самостоятельно
 - 💼 Work and IT: не оценён
 - 🏛 Urząd and formal communication: не оценён
 - 👥 Social life and small talk: не оценён
@@ -47,3 +48,8 @@
 | 2026-09-16 | Writing / Grammar | `dwa dnia` → самостоятельно исправлено на `dwa dni` | +5 XP; числительные требуют дальнейшей проверки |
 | 2026-09-16 | Writing / Vocabulary | Самостоятельно сформулировано `Kiedy będzie gorąca woda?` | +5 XP; естественный бытовой вопрос |
 | 2026-09-16 | Writing / Vocabulary | После знакомства с парой `dojść` / `dojechać` правильно выбрано `dojść` в `Przepraszam, jak dojść do rynka glównego?` | +8 XP; выбор глагола правильный, форма `Rynku Głównego` потребовала коррекции |
+
+| 2026-09-20 | Reading / Vocabulary | По объявлению правильно определена причина отключения воды: `z powodu prac remontowych` | Первое положительное evidence Reading; +8 XP |
+| 2026-09-20 | Writing / Grammar | `Przepraszam, jak dojechać do Dworca Głównego?`; форма после `do` исправлена самостоятельно | +13 XP суммарно за ответ и исправление |
+| 2026-09-20 | Writing / Grammar | В скрытой проверке `taką colę` сначала использована другая конструкция, затем самостоятельно выбрано `taką` | +5 XP; recurring enemy остаётся active |
+| 2026-09-20 | Writing / Grammar | Начата практика `ubierać się`, `myć się`, `umyć się` | Первые данные |
